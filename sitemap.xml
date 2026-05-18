@@ -1,65 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- NOTE: Replace https://www.shreeacademy.in with your live domain if different -->
   <url>
-    <loc>https://www.shreeacademy.in/</loc>
+    <loc>https://sree.academy/</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.shreeacademy.in/about.html</loc>
+    <loc>https://sree.academy/about.html</loc>
   <url>
-    <loc>https://www.shreeacademy.in/results.html</loc>
+    <loc>https://sree.academy/results.html</loc>
   </url>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.shreeacademy.in/courses.html</loc>
+    <loc>https://sree.academy/courses.html</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.shreeacademy.in/result.html</loc>
+    <loc>https://sree.academy/result.html</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.shreeacademy.in/contact.html</loc>
+    <loc>https://sree.academy/contact.html</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.shreeacademy.in/course-xi-xii.html</loc>
+    <loc>https://sree.academy/course-xi-xii.html</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.shreeacademy.in/course-jee.html</loc>
+    <loc>https://sree.academy/course-jee.html</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.shreeacademy.in/course-neet.html</loc>
+    <loc>https://sree.academy/course-neet.html</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.shreeacademy.in/course-nda.html</loc>
+    <loc>https://sree.academy/course-nda.html</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.shreeacademy.in/course-mht-cet.html</loc>
+    <loc>https://sree.academy/course-mht-cet.html</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
